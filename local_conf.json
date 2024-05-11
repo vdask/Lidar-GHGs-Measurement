@@ -1,0 +1,13 @@
+{
+    "mqtt": {
+        "host" : "coreiot.green-projects.gr",
+        "port": 1883,
+        "username": "e84753ab7da49f67",
+        "password": "X7FHFHQXL7Tq22Fm",
+        "log": true
+    },
+    "upload" : {
+        "url": "https://coreiot.green-projects.gr/api/life/lidar",
+        "api_key": "pL6BWRwwY5Aqqd9D"
+    }
+}
